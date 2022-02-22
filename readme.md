@@ -3,6 +3,9 @@
 Eu sou programador desde 2004, com maior experiência de tempo em PHP. Isso me fez aprimorar os conhecimentos de Backend, hoje em dia sou focado em NodeJs.
 No mesmo período da época não havia definição de backend e frontend e então desenvolví diversos projetos utilizando Javascript e frameworks como JQuery que me facilitam o uso hoje de tecnologias como React Native e ReactJs.
 
+## Trabalhos que permanecem no ar
+https://popcia.com/ - O site está no ar sem atualizações, eu o mantenho como parte do meu trabalho. Utilizei Slim Frameworok(PHP) para criação de API e JQuery no frontend..
+
 ## Experiência em
 
 <div style="display: inline_block">
