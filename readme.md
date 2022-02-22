@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao meu Profile! 👁️‍🗨️
 
-Eu sou programador tendo a minha maior experiência de tempo no PHP, desde 2004. Isso me fez aprimorar os conhecimentos de Backend, hoje em dia sou focado em NodeJs.
+Eu sou programador desde 2004, com maior experiência de tempo em PHP. Isso me fez aprimorar os conhecimentos de Backend, hoje em dia sou focado em NodeJs.
 No mesmo período da época não havia definição de backend e frontend e então desenvolví diversos projetos utilizando Javascript e frameworks como JQuery que me facilitam o uso hoje de tecnologias como React Native e ReactJs.
 
 ## Experiência em
@@ -13,6 +13,8 @@ No mesmo período da época não havia definição de backend e frontend e entã
 <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 
