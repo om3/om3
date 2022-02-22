@@ -15,4 +15,6 @@ No mesmo período da época não havia definição de backend e frontend e entã
 <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
+<div style="padding:25px 0">
 ![Om3 GitHub stats](https://github-readme-stats.vercel.app/api?username=om3&show_icons=true&theme=radical)
+  </div>
