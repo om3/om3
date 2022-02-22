@@ -16,5 +16,7 @@ No mesmo período da época não havia definição de backend e frontend e entã
 </div>
 
 
+
+
 ![Om3 GitHub stats](https://github-readme-stats.vercel.app/api?username=om3&show_icons=true&theme=radical)
 
